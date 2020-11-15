@@ -12,8 +12,9 @@ First click the link then View Raw it will be downloaded automatically.
 
 [Download the apk here!](https://github.com/JohnBrix/Android-Maps-100-Accurate/blob/master/screenshot/demo.apk)
 
-<h2>Actually maps: </h2>
+<h2>Actually Location: </h2>
 
 <img src="screenshot/1.png" height="700">
 
 <file src="screenshot/demo.apk" >
+  
